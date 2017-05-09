@@ -1,0 +1,32 @@
+{"items":[
+	{ 
+		"item":"Americano", 
+		"desc":"Dark roasted expresso with hot water; European style coffee.",
+		"price":1
+	},
+	{
+		"item":"Espresso", 
+		"desc":"Espresso is coffee brewed by forcing a small amount of nearly boiling water under pressure through finely ground coffee beans.",
+		"price":1
+	},
+	{
+		"item":"Short Macchiato", 
+		"desc":"A short macchiato is similar to an espresso but with a dollop of steamed milk and foam to mellow the harsh taste of an espresso.",
+		"price":1
+	},
+	{
+		"item":"Long Macchiato", 
+		"desc":"A long macchiato is the same as a short macchiato but with a double shot of espresso. The same rule of thirds applies in the traditionally made long macchiato",
+		"price":1
+	},
+	{
+		"item":"Ristretto", 
+		"desc":"An espresso shot that is extracted with the same amount of coffee but half the amount of water. The end result is a more concentrated and darker espresso extraction.",
+		"price":1
+	},
+	{
+		"item":"Café Latte", 
+		"desc":"“latte” for short, is an espresso based drink with steamed milk and micro-foam added to the coffee. This coffee is much sweeter compared to an espresso due to the steamed milk.",
+		"price":1
+	}
+]}
